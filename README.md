@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhagwan06
+- 👋 Hi, I’m **Bhagwan Gharti Magar**
 - 👀 I’m interested in Tech.
 - 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on projects.
