@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Bhagwan Gharti Magar**.
-- 👀 I’m interested in Tech.
+- 👀 I’m interested in **Tech**.
 - 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: magarbhagwan66@gmail.com
