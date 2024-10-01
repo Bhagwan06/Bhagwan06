@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **MERN**.
 - 💞️ I’m looking to collaborate on **projects**.
 - 📫 How to reach me: magarbhagwan66@gmail.com
-- 😄 Pronouns: he
+- 😄 Pronouns: **he**
 - ⚡ Fun fact: I like challenges as you know I'm not particularly eager to give up. 
 
 <!---
