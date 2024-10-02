@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on **projects**.
 - 📫 How to reach me: magarbhagwan66@gmail.com
 - 😄 Pronouns: **he**
-- ⚡ Fun fact:** I like challenges as you know I'm not particularly eager to give up.** 
+- ⚡ Fun fact: **I like challenges as you know I'm not particularly eager to give up**. 
 
 <!---
 Bhagwan06/Bhagwan06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
