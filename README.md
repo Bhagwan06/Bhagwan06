@@ -26,7 +26,6 @@
 ![Bhagwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhagwan06&show_icons=true&theme=radical)
 
 ### GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bhagwan06&theme=radical)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bhagwan06&theme=radical)](https://git.io/streak-stats)
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagwan06&layout=compact&theme=radical)
