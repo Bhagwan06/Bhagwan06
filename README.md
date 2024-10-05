@@ -15,8 +15,7 @@
 - ☁️ **Cloud**:AWS
 
 ### Projects
-- Movie Wish List 
-- Book Store Management
+-Movie Wish List('https://movie-wish-list-react-s8v4.vercel.app/')
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bhagwan-gharti-magar-5762901a5) 
