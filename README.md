@@ -6,28 +6,28 @@
 - 💞️ I’m looking to collaborate on **projects**.
 - 📫 How to reach me: [magarbhagwan66@gmail.com](mailto:magarbhagwan66@gmail.com)
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I like challenges, as you know I'm not particularly eager to give up**.
+- ⚡ Fun fact: **I embrace challenges as opportunities for growth—quitting is not an option for me!**.
 
 ### My Tech Stack
-- 🖥 Languages: JavaScript, Python, PHP, Java
-- 📱 Mobile Development: Flutter (Android, iOS)
-- 🌐 Front-End: React, HTML, CSS
-- 🛠 Back-End: Node.js, Express.js, MongoDB, MySQL
-- ☁️ Cloud: AWS, Docker, Terraform
+- 🖥 **Languages**: JavaScript
+- 🌐 **Front-End**: React, HTML, CSS
+- 🛠 **Back-End**: Node.js, Express.js, MongoDB
+- ☁️ **Cloud**:AWS
 
 ### Projects
-- Customer Management System (Laravel)
-- Book Store Management (Java)
+- Movie Wish List 
+- Book Store Management
 
 ### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) 
-- [Email](mailto:magarbhagwan66@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bhagwan-gharti-magar-5762901a5) 
+[![Email](https://img.shields.io/badge/Email-magarbhagwan66@gmail.com-red?style=for-the-badge)](mailto:magarbhagwan66@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Bhagwan06)
 
 ### GitHub Stats
-![Bhagwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Bhagwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhagwan06&show_icons=true&theme=radical)
 
 ### GitHub Streak
-![Bhagwan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![Bhagwan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhagwan06&theme=radical)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagwan06&layout=compact&theme=radical)
