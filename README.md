@@ -11,7 +11,7 @@
 - 🖥 **Languages**: JavaScript
 - 🌐 **Front-End**: React, HTML, CSS
 - 🛠 **Back-End**: Node.js, Express.js, MongoDB
-- ☁️ **Cloud**:AWS
+- ☁️ **Cloud**: AWS
 
 ### Projects
 - *Movie Wish List*
