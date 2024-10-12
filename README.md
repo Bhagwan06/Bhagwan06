@@ -3,7 +3,7 @@
 ### About Me
 - 👀 I’m interested in **Tech**.
 - 🌱 I’m currently learning **MERN**.
-- 📫 How to reach me: [magarbhagwan66@gmail.com](mailto:magarbhagwan66@gmail.com)
+- 📫 How to reach me: [magarbhagwan66@gmail.com]
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I embrace challenges as opportunities for growth—quitting is not an option for me!**.
 
