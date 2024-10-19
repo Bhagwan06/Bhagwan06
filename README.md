@@ -12,9 +12,7 @@
 - 🌐 **Front-End**: React, HTML, CSS
 - 🛠 **Back-End**: Node.js, Express.js, MongoDB
 - ☁️ **Cloud**: AWS
-
-### Projects
-- *Movie Wish List*
+  
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bhagwan-gharti-magar-5762901a5) 
