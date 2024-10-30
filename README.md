@@ -4,7 +4,7 @@
 - 👀 **Interests**: Passionate about **Technology** and its potential to solve real-world problems.
 - 🌱 **Currently Learning**: Diving deep into the **MERN** stack for full-stack development.
 - 📫 **Contact Me**: [magarbhagwan66@gmail.com](mailto:magarbhagwan66@gmail.com)
-- 😄 **Pronouns**: He/Him
+- 😄 **Pronouns**: He
 - ⚡ **Fun Fact**: I embrace challenges as opportunities for growth—quitting is not an option for me!
 
 ### My Tech Stack
