@@ -7,11 +7,13 @@
 - 😄 **Pronouns**: He
 - ⚡ **Fun Fact**: I embrace challenges as opportunities for growth—quitting is not an option for me!
 
-### My Tech Stack
+### **My Tech Stack**
 - 🖥 **Languages**: JavaScript
-- 🌐 **Front-End**: React, HTML, CSS
-- 🛠 **Back-End**: Node.js, Express.js, MongoDB
+- 🌐 **Front-End**: React, HTML, CSS, Figma
+- 🛠 **Back-End**: Node.js, Express.js
+- 🗄️ **Database**: MongoDB
 - ☁️ **Cloud**: AWS
+
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bhagwan-gharti-magar-5762901a5) 
